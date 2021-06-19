@@ -17,6 +17,7 @@ Just download the picture **decim.png** and start playing, and if you solved it 
 * [BaadMaro](https://github.com/BaadMaro)
 * [HadiMed](https://github.com/HadiMed)
 * [Bz-Root](https://github.com/Bz-root)
+* [bvr0n](https://github.com/bvr0n)
 
 ## Challenge Author
 @Lelouche01 - Amine Ait Ouazghour
