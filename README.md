@@ -14,8 +14,7 @@ Just download the picture **decim.png** and start playing, and if you solved it 
 ```
 
 ## Solvers
-still empty lol
-
+[BaadMaro](https://github.com/BaadMaro)
 ## Challenge Author
 @Lelouche01 - Amine Ait Ouazghour
 
