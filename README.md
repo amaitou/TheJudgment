@@ -19,7 +19,7 @@ Just download the picture **decim.png** and start playing, and if you solved it 
 * [Bz-Root](https://github.com/Bz-root)
 * [bvr0n](https://github.com/bvr0n)
 * [AK1RA](https://twitter.com/D31R10x)
-* [Mohammed tounssi](https://twitter.com/mohammedTns)
+* [Mohammed Tounssi](https://twitter.com/mohammedTns)
 
 ## Challenge Author
 @Lelouche01 - Amine Ait Ouazghour
