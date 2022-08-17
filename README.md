@@ -22,7 +22,7 @@ Just download the picture **decim.png** and start playing, and if you solved it 
 * [Mohammed Tounssi](https://twitter.com/mohammedTns)
 
 ## Challenge Author
-@Lelouche01 - Amine Ait Ouazghour
+@amaitou - Amine Ait Ouazghour
 
 ## Contact me
 
