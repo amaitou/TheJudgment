@@ -26,8 +26,6 @@ Just download the picture **decim.png** and start playing, and if you solved it 
 
 ## Contact Me
 
-For Any Questions You Can Find Me on This Platforms :
-
 * [Twitter][_1]
 * [Instagram][_2]
 
