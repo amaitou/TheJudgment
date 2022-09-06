@@ -1,3 +1,7 @@
+--------------
+![68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313430302f312a645179664f7046576d5378726d644f63516757364f512e6a706567](https://user-images.githubusercontent.com/49293816/188546256-c0a87b9d-5b46-4569-896f-218da70c2aa7.jpeg)
+
+--------------
 
 ## About the challenge
 You are in the day before your judgment where **Decim** gives you a chance by challenging you to unhide the secret message which is hidden within the picture but you have only two options, either unhide the flag so you can get another chance to live your life or you will be sent to hell with no mercy.
