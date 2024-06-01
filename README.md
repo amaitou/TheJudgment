@@ -28,10 +28,9 @@ Just download the picture **decim.png** and start playing, and if you solved it 
 ## Challenge Author
 @amaitou - Amine Ait Ouazghour
 
-## Contact Me
+### **Contact Me**
 
 * [Twitter][_1]
-* [Instagram][_2]
 
 [_1]: https://twitter.com/amait0u
-[_2]: https://www.instagram.com/amait0u
+
